@@ -1,4 +1,4 @@
-# Readme for exercice in the tutorial
+# Readme for exercice in the [tutorial](https://www.learnenough.com/html-tutorial)
 
 *   Several tags
 *   Are included in this readme
